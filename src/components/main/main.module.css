@@ -1,0 +1,126 @@
+/* body{
+    margin: 0 auto;
+}
+
+.container{
+position: absolute;
+width: 100%;
+height: 840px;
+left: 0px;
+top: 0px;
+
+background: #F4F9E2;
+} */
+ .mainPage{
+    background-color: #f4f9e2;
+    margin-top: -7px;
+    height: 900px;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+.mainPage nav{
+     display: flex;
+     justify-content: space-between;
+}
+.mainPage nav ul{
+    padding: 0;
+    list-style: none;
+    display: flex;
+
+}
+.mainPage nav ul li{
+    margin-right: 10px;
+
+}
+.mainPage nav button{
+    background: #62D0DF;
+border-radius: 50px;
+border: none;
+}
+.mainPage nav span{
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+
+color: #62D0DF;
+}
+.Pic{
+    width: 600px;
+    margin-left: 680px;
+}
+.mainBlock{
+    display: flex;
+    justify-content: space-between;
+}
+.mainBlock h1{
+    position: absolute;
+width: 484px;
+height: 167px;
+left: 179px;
+top: 305px;
+
+font-family: 'Larsseit';
+font-size: 48px;
+line-height: 53px;
+letter-spacing: -0.035em;
+
+color: #22356F;
+
+}
+.Plogo{
+    position: absolute;
+width: 484px;
+height: 64px;
+left: 179px;
+top: 241px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+
+color: #62D0DF;
+
+}
+.Ptext{
+position: absolute;
+width: 469px;
+height: 161px;
+left: 179px;
+top: 520px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 42px;
+
+color: #22356F;
+
+}
+.btn1{
+    position: absolute;
+width: 150px;
+height: 50px;
+left: 179px;
+top: 845px;
+border: none;
+background: #F9B640;
+}
+.btn2{
+    position: absolute;
+width: 150px;
+height: 43px;
+left: 367px;
+top: 848px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+border: none;
+color: #FAB63E;
+}

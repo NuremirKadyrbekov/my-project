@@ -1,0 +1,105 @@
+.block1{
+    position: absolute;
+width: 430px;
+height: 480px;
+left: 0px;
+top: 1260px;
+
+background: #22356F;
+}
+.Toch1{
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 72px;
+    top: 2550px;
+    
+    background: #E9B730;
+}
+.block1 p{
+    position: absolute;
+width: 157px;
+height: 72px;
+left: 104px;
+top: 72px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+}
+.block2{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 430px;
+top: 1260px;
+
+background: #0052C1;
+}
+.block2 p{
+    position: absolute;
+width: 157px;
+height: 72px;
+left: 94px;
+top: 72px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+}
+.block3{
+    position: absolute;
+width: 430px;
+height: 480px;
+left: 911px;
+top: 1260px;
+background-color: red;
+background-image: url(../image/joanna-kosinska-340748.png);
+}
+.block3 p{
+    position: absolute;
+width: 157px;
+height: 72px;
+left: 94px;
+top: 72px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+}
+.block4{
+    position: absolute;
+width: 440px;
+height: 480px;
+left: 0px;
+top: 1740px;
+
+background: #62D0DF;
+}
+.block5{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 430px;
+top: 1740px;
+
+background: #DEE1FF;
+}
+.block6{
+    position: absolute;
+    width: 430px;
+    height: 480px;
+    left: 911px;
+top: 1740px;
+
+background: #8F00FF;
+}
